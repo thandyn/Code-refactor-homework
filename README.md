@@ -4,3 +4,4 @@ Horiseon Refactoring Code
 - Renamed classification and consolidated same classification to clean up stylesheet.
 - Added alt to all image to fit description.
 - Reorganized elements structures
+https://thandyn.github.io/Horiseon-Refactored-Code/
